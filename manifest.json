@@ -1,0 +1,12 @@
+{
+  "name": "Haftalık Planlayıcı",
+  "short_name": "Planlayıcı",
+  "start_url": "/Planner/",
+  "display": "standalone",
+  "background_color": "#dce8d8",
+  "theme_color": "#dce8d8",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
